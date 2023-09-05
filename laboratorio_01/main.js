@@ -10,7 +10,7 @@ function randomValueFromArray(array){
 randomize.addEventListener('click', result);
 
 function result() {
-    var storyText = 'Estava na temperatura de 94 fahrenheit na Grécia, onde ocorria o Rally de Acrópolis. Então :insertx: com o seu :inserty:, que pesava 1763 libras, :insertz:. Bob, perto da pista viu tudo e ainda conseguiu um prêmio: :insertx: lhe deu um boné autógrafado.';
+    var storyText = 'Estava na temperatura de 94 fahrenheit na Grécia, onde ocorria o Rally de Acrópolis. Então :insertx: com o seu :inserty:, que pesava 1763 libras, :insertz:. Bob, perto da pista viu tudo e ainda conseguiu um prêmio: :insertx: lhe deu um boné autografado.';
     var insertX = ['Walter Röhrl', 'Michèle Mouton', 'Henri Toivonen'];
     var insertY = ['Audi Quattro S1 E2', 'Lancia Delta S4', 'Peugeot 205 T16'];
     var insertZ = ['venceu a etapa', 'furou o pneu e abandonou a prova', 'capotou, mas conseguiu finalizar a etapa'];
